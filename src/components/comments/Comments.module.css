@@ -1,0 +1,17 @@
+.comments {
+  text-align: center;
+}
+
+.comments > button {
+  font-size: 1.25rem;
+}
+
+.CommentsWrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.author {
+  font-weight: bold;
+  margin-right: 10px;
+}
